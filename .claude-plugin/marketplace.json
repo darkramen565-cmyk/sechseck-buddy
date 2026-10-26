@@ -1,0 +1,5 @@
+{
+  "name": "sechseck-buddy",
+  "owner": { "name": "darkramen565-cmyk" },
+  "plugins": [{ "name": "sechseck-buddy", "source": "./" }]
+}
